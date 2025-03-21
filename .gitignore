@@ -1,0 +1,36 @@
+# Зависимости
+node_modules/
+package-lock.json
+
+# Сборка и дистрибутив
+dist/
+build/
+*.tsbuildinfo
+
+# Логи и отладка
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# IDE и редакторы
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Тесты и покрытие
+coverage/
+.nyc_output/
+
+# Специфичные для проекта
+node_modules_backup_*.zip
+
+# Локальные конфиги
+.env
+.env.local
+.env.*.local

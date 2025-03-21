@@ -1,0 +1,30 @@
+# Исходный код
+src/
+
+# Конфигурационные файлы
+tsconfig.json
+.gitignore
+.npmignore
+.editorconfig
+.prettierrc
+.eslintrc
+.vscode/
+
+# Тесты и документация разработчика
+tests/
+docs/
+coverage/
+
+# Временные файлы
+*.log
+.DS_Store
+Thumbs.db
+
+# Зависимости и артефакты сборки
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Бэкапы node_modules
+node_modules_backup_*.zip
