@@ -14,7 +14,7 @@
 ## Установка
 
 ```bash
-npm install -g node-modules-cleaner
+npm install -g @nntdgrss/node-modules-cleaner
 ```
 
 ## Использование
